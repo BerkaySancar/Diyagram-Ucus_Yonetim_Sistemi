@@ -14,4 +14,4 @@ Uçuşların ve pilotların yönetimi için bir sistem tasarlayın.
 
 Bu sistemi tasvir eden Class(Sınıf) diyagramını çiziniz.
 
-[Diyagram]()
+[Diyagram](https://github.com/BerkaySancar/Diyagram-Ucus_Yonetim_Sistemi/blob/main/ucus.png)
